@@ -1,1 +1,1 @@
-# IT-111-repo
+# A repo for Python code practice
