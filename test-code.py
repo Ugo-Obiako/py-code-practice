@@ -1,12 +1,10 @@
-msg = "hello world"
-print(msg)
-print("the system is set up as shown")
-
-a=20
-if a>2:
-    print("a is greater than 2")
+x = 10
+if x == 1:
+    print("x is equal to 1")
+elif x>11:
+    print('x is greater than 11')
 else:
-    print("a is not greater than 2") # Indentation is very important in Python
+    print("None of the above")
 
-    # Note that this is a comment 
-    # The system configuration parameters
+for letter in "succotash":
+    print(letter)
